@@ -1,5 +1,7 @@
 {
   "devDependencies": {
-    "cypress": "^14.0.0"
+    "@types/jest": "^29.5.14",
+    "cypress": "^14.0.0",
+    "vitest": "^3.0.4"
   }
 }

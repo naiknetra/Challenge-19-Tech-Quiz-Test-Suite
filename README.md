@@ -30,3 +30,9 @@ THEN I can view my score
 WHEN the quiz is over
 
 THEN I can start a new quiz
+
+Walkthrough video:
+
+https://drive.google.com/file/d/1tMV_wPdAFTPwcMZWDJPIRdLyHURDDIZ_/view
+
+

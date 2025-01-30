@@ -33,6 +33,7 @@ THEN I can start a new quiz
 
 Walkthrough video:
 
-https://drive.google.com/file/d/1tMV_wPdAFTPwcMZWDJPIRdLyHURDDIZ_/view
+https://drive.google.com/file/d/11MpXF4Ig7z0RwFI6hH62HOHX6aOHXRdi/view
+
 
 
